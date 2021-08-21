@@ -37,3 +37,7 @@
    <a href="https://reactstrap.github.io/" target="_blank"> <img src="https://reactstrap.github.io/assets/logo.png" alt="Reactstrap" width="40" height="40"/> </a>
    <a href="" target="_blank"> <img src="https://j2inet.files.wordpress.com/2018/12/siderealLarge.png?w=640" alt="PWA" width="60" height="40"/> </a>
    <a href="https://www.apollographql.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17189275?s=280&v=4" alt="PWA" width="40" height="40"/> </a>
+
+<br/>
+
+![Snake animation](https://github.com/Breno44/breno44/blob/output/github-contribution-grid-snake.svg)
