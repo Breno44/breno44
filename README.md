@@ -11,9 +11,9 @@
 
 <h3 align="left">I am learning:</h3>
  <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> </a>
- <a href="https://emotion.sh/docs/introduction" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="emotion" width="40" height="40"/> </a>
 
 <h3 align="left">I'm interested:</h3>
+ <a href="https://emotion.sh/docs/introduction" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31557565?s=200&v=4" alt="emotion" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
