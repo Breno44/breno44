@@ -32,7 +32,7 @@
  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://material-ui.com/pt/" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" width="40" height="40"/> </a>
-  <a href="https://postcss.org/" target="_blank"> <img src="https://postcss.org/postcss.cbfff7d9.svg" alt="post-css" width="40" height="40"/> </a>
+  <a href="https://postcss.org/" target="_blank"> <img src="https://postcss.org/postcss.848b4da4.svg" alt="post-css" width="40" height="40"/> </a>
    <a href="https://reactstrap.github.io/" target="_blank"> <img src="https://reactstrap.github.io/assets/logo.png" alt="Reactstrap" width="40" height="40"/> </a>
    <a href="" target="_blank"> <img src="https://j2inet.files.wordpress.com/2018/12/siderealLarge.png?w=640" alt="PWA" width="60" height="40"/> </a>
    <a href="https://www.apollographql.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17189275?s=280&v=4" alt="PWA" width="40" height="40"/> </a>
