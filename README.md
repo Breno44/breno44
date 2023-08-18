@@ -5,5 +5,3 @@
   <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno44&layout=compact&theme=dracula" />
 </div>
 <br />
-
-![Snake animation](https://github.com/Breno44/breno44/blob/output/github-contribution-grid-snake.svg)
